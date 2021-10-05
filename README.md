@@ -8,7 +8,11 @@ I have built a few portfolio's, but I wanted one that really showed my skills as
 
 ## Wireframing, Component & Feature planning all designed on Figma
 
-[Checkout the homepage design I built out on Figma](https://www.figma.com/proto/PylFPG95AnYZ78NPLPKWhI/Mobile-Wireframe?node-id=3%3A5&scaling=scale-down&page-id=0%3A1)
+[Homepage Design on Figma](https://www.figma.com/proto/PylFPG95AnYZ78NPLPKWhI/Mobile-Wireframe?node-id=3%3A5&scaling=scale-down&page-id=0%3A1)
+
+[Project page Design on Figma](https://www.figma.com/file/PylFPG95AnYZ78NPLPKWhI/Mobile-Wireframe?node-id=108%3A3)
+
+[Shopping page Design on Figma](https://www.figma.com/file/PylFPG95AnYZ78NPLPKWhI/Mobile-Wireframe?node-id=108%3A2)
 
 [Checkout my Component & Feature Planning on Figma](https://www.figma.com/file/HNJW3AaeYDgscIfiuuBQ0D/Component-Tree-for-Portfolio)
 
